@@ -1,0 +1,46 @@
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.pdb
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Form1.resources
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Properties.Resources.resources
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.GenerateResource.Cache
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.exe
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.pdb
+D:\CARLO\2023 FILES\carlos new3\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.pdb
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Form1.resources
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.exe
+C:\Users\User\Desktop\New folder\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.pdb
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.pdb
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Form1.resources
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Properties.Resources.resources
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.exe
+C:\Users\User\Desktop\CsharpADODBConnection\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.pdb
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe.config
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.pdb
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.AssemblyReference.cache
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Form1.resources
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Properties.Resources.resources
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.GenerateResource.cache
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.CoreCompileInputs.cache
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.exe
+C:\Users\BUENDOVINO\Desktop\CSharpADODBConn\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.pdb
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe.config
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.exe
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\bin\Debug\CsharpADODBConnection.pdb
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.AssemblyReference.cache
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Form1.resources
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.Properties.Resources.resources
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.GenerateResource.cache
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.csproj.CoreCompileInputs.cache
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.exe
+C:\Users\BUENDOVINO\Desktop\New folder\CsharpADODBConnection\obj\x86\Debug\CsharpADODBConnection.pdb
