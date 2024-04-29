@@ -1,0 +1,3 @@
+Install mysql-connector-odbc-8.0.33-win32
+
+Import records_players.sql to Xampp
